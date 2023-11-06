@@ -18,6 +18,7 @@ I learned that I love to code and problem-solve. WHY DID IT TAKE SO LONG FOR ME 
 https://midas24k.github.io/CHALLENGE-PROJECT-/
 
 <img scr= "/Users/roderickhughey/Desktop/HomeworkC/CHALLENGE-PROJECT-/01-html-css-git-homework-demo.png" />
+Horiseon-Marketing-Agency
 
 # Feedback
 PLEASE LEAVE FEEDBACK, I'LL ONLY BE AS GOOD AS THE FEEDBACK YOU PROVIDE!!!!! PLEASE AND THANKS 
