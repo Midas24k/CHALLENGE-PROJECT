@@ -14,11 +14,11 @@ This project was a good knowledge check as well as a teacher for what's to come.
 # What did you learn?
 I learned that I love to code and problem-solve. WHY DID IT TAKE SO LONG FOR ME TO PICK THIS UP?
 
-# URL
+# URL<img width="1085" alt="Screenshot 2023-11-06 at 4 15 40 PM" src="https://github.com/Midas24k/Horiseon-Marketing-Agency/assets/137853877/7f2d0553-6d91-4956-961e-cdea9a9bf00d">
+
 https://midas24k.github.io/CHALLENGE-PROJECT-/
 
-<img scr= "/Users/roderickhughey/Desktop/HomeworkC/CHALLENGE-PROJECT-/01-html-css-git-homework-demo.png" />
-Horiseon-Marketing-Agency
+
 
 # Feedback
 PLEASE LEAVE FEEDBACK, I'LL ONLY BE AS GOOD AS THE FEEDBACK YOU PROVIDE!!!!! PLEASE AND THANKS 
