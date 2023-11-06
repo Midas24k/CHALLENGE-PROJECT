@@ -1,4 +1,4 @@
-# challenge-project-
+# Horiseon-Marketing-Agency
 
 Welcome to the week 1 challenge a project based on HTGML, Github, and CSS. It was a riveting experience that left the mind wondering, "Why did I take this long to start coding".
 
